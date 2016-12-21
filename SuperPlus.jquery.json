@@ -10,13 +10,13 @@
     "version": "1.0.0",
     "author": {
         "name": "South IT College class NO1 of UED",
-        "url": "https://github.com/jquery/jquery-color/blob/2.1.2/AUTHORS.txt"
+        "url": "https://github.com/zhangguo5/SuperPlus/blob/master/AUTHORS.txt"
     },
     "maintainers": [
         {
-            "name": "Corey Frang",
-            "email": "gnarf37@gmail.com",
-            "url": "http://gnarf.net"
+            "name": "South IT College class NO1 of UED",
+            "email": "2676656856@qq.com",
+            "url": "http://best.cnblogs.com"
         }
     ],
     "licenses": [
@@ -25,11 +25,12 @@
             "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
         }
     ],
-    "bugs": "https://github.com/jquery/jquery-color/issues",
-    "homepage": "https://github.com/jquery/jquery-color",
-    "docs": "https://github.com/jquery/jquery-color",
-    "download": "http://code.jquery.com/#color",
+    "bugs": "https://github.com/zhangguo5/SuperPlus/issues",
+    "homepage": "https://github.com/zhangguo5/SuperPlus",
+    "docs": "https://github.com/zhangguo5/SuperPlus",
+    "download": "https://github.com/zhangguo5/SuperPlus/tree/master/dest",
     "dependencies": {
         "jquery": ">=1.5"
     }
 }
+
